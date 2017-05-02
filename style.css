@@ -1,0 +1,50 @@
+body{
+  min-width: 960px;
+  padding:0;
+  margin:0;
+
+}
+#wrapper{
+  position:relative;
+  margin:10px auto;
+
+ 
+  text-align: center;
+  width:960px;
+ 
+  height:500px;
+}
+#slider img{ 
+  top:50px;
+  border-radius: 2px;
+  left:0px;
+  position: absolute;
+  float:left;
+  display: none;
+  overflow:hidden;
+}
+a{
+  position: relative;
+  margin-top: 10px;
+  text-decoration: none;
+  padding:5px;
+  background-color: grey;
+  color: white;
+
+}
+#left{
+  width:60px;
+  height:20px;
+  display: block;
+  float:left;
+  border-radius: 3px;
+  
+}
+#right{
+  width:30px;
+  height:20px;
+  display: block;
+  float:right;
+  border-radius: 3px;
+
+}
