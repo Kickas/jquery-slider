@@ -1,4 +1,4 @@
- project-jquery-slider
+ # Project-jquery-slider
  
  button not working yet
  
